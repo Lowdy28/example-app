@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de Gestión Veterinaria</title>
+    <title>Sistema de Gestión Veterinaria de Chicos Bien Hijos de Cristo Rey</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
