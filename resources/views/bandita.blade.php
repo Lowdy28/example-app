@@ -15,7 +15,7 @@
             <a href="#inicio" class="nav-link active">Hector Galindo Morales</a>
             <a href="#nosotros" class="nav-link">Carlos</a>
             <a href="#contacto" class="nav-link">Jared Rubio</a>
-            <a href="#contacto" class="nav-link">Valentin Guzman</a>
+            <a href="#contacto" class="nav-link">Valentin Guzman Velazquez</a>
         </nav>
     </header>
 
