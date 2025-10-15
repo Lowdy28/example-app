@@ -30,7 +30,7 @@
     </main>
 
     <footer class="footer">
-        <p>&copy; 2025 Patitas Felices VET — Todos los derechos reservados.</p>
+        <p>&copy; 2025 Patitas Felices VET — Todos los derechos reservados. VALENTIN GUZMAN VELAZQUEZ</p>
     </footer>
 </body>
 </html>
